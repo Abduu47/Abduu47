@@ -1,6 +1,7 @@
 - Hi, I’m @Abdul Rehman
 - I’m interested in making projects, Learning, Games, etc.
-- I’m currently Persuing BCA(Bachelor of Computer Applications).
+- I’m currently Persuing MCA(Masters in Computer Applications).
+- A cloud Enthusiastic Devops Engineer (AWS, Azure, GCP, Kubernetes, Docker, Ansible, Jenkins, CI/CD).
 - I’m looking to collaborate on Python and Web/App Development projects.
 - How to reach me via mobile: 9121918097.
 - via Email: abdulrehmanjaved35@gmail.com.
